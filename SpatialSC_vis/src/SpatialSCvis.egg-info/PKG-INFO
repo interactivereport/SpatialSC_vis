@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: SpatialSCvis
+Version: 0.0.3
+Summary: A package to enable spatial visualization for single-cell data
+Home-page: https://github.com/interactivereport/SpatialSC_vis
+Author: Wanli Wang
+Author-email: wendywangjk@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SpatialSC
+
+This is a package aims to set up as a bridge between deconvolution tools and visualization platform.
+
+
+

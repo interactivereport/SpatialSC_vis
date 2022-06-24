@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/SpatialSCvis.py
+src/SpatialSCvis.egg-info/PKG-INFO
+src/SpatialSCvis.egg-info/SOURCES.txt
+src/SpatialSCvis.egg-info/dependency_links.txt
+src/SpatialSCvis.egg-info/requires.txt
+src/SpatialSCvis.egg-info/top_level.txt
